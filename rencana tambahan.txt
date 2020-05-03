@@ -1,5 +1,4 @@
 rencana tambahan
-- belajar python
 - belajar termux
 - belajar web programming
 - belajar arduino
